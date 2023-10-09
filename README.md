@@ -4,6 +4,16 @@
 📖 해당 문서는 자바스크립트가 가지는 타 언어와의 **차이점 위주로 기술**되어 있습니다.
 </aside>
 
+[변수](https://github.com/TTANGGIN/JavaScript_Study#%EB%B3%80%EC%88%98) 
+
+[자료형(Type)](https://github.com/TTANGGIN/JavaScript_Study#%EC%9E%90%EB%A3%8C%ED%98%95type) 
+
+[모듈](https://github.com/TTANGGIN/JavaScript_Study#%EB%AA%A8%EB%93%88) 
+
+[정규표현식](https://github.com/TTANGGIN/JavaScript_Study#%EC%A0%95%EA%B7%9C%ED%91%9C%ED%98%84%EC%8B%9D) 
+
+[참고자료](https://github.com/TTANGGIN/JavaScript_Study#%EC%B0%B8%EA%B3%A0%EC%9E%90%EB%A3%8C)
+
 </br></br>
 
 **미작성 & 공부 예정**
