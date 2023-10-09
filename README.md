@@ -90,7 +90,7 @@ console.log(a); // 5
 
 ### `let`과 `const`와 호이스팅
 
-**`let`**과 **`const`**도 호이스팅이 발생하지만, 선언이 끌어올려지고 초기화가 이루어지기 전까지 해당 변수를 참조하면 오류가 발생합니다. 이를 Temporal Dead Zone (TDZ)이라고 합니다.
+`let`과 `const`도 호이스팅이 발생하지만, 선언이 끌어올려지고 초기화가 이루어지기 전까지 해당 변수를 참조하면 오류가 발생합니다. 이를 Temporal Dead Zone (TDZ)이라고 합니다.
 
 ```jsx
 javascriptCopy code
@@ -300,3 +300,10 @@ console.log(pg.exec('abcdefa')); // ['a', 'a']
 ```
 
 - 리터럴 뒤에 `g`를 추가하면 패턴에 해당하는 **모든** 결과를 리턴한다.
+- ---
+
+# 참고자료
+
+[생활코딩](https://opentutorials.org/course/1)
+
+[노마드 코더 Nomad Coders](https://nomadcoders.co/)
